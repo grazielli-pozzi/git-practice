@@ -1,3 +1,2 @@
 Name: Grazielli
-Age: 28
 Favorite Color: Pink
